@@ -9,16 +9,9 @@ categories:
 thumbnail: 
 ---
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <div class="ratio ratio-16x9">
-      <iframe
-        src="https://www.youtube.com/embed/nMEskfK81qs"
-        title="YouTube video"
-        allowfullscreen>
-      </iframe>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/nMEskfK81qs" class="img-fluid rounded z-depth-1" %}
     </div>
-  </div>
-</div>
 
 
 <div align="justify">
