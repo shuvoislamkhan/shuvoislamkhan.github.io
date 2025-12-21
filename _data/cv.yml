@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Bengali, French, Arabic, Hindi
+      value: English, Bengali
 
 - title: Education
   type: time_table
@@ -69,13 +69,13 @@
 - title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh Using SARIMAX, XGBoost, and Decision Tree Classification Methods.</a>
+    - title: Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh Using SARIMAX, XGBoost, and Decision Tree Classification Methods.
       year: 2023
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-  contents:
-    - title: Bias mitigation in Bangla handwritten text recognition 
-      year: 2023
+  #contents:
+   # - title: Bias mitigation in Bangla handwritten text recognition 
+    #  year: 2023
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
   #contents:
@@ -97,10 +97,10 @@
       items:
         - Regional Medel Winner, Bangladesh Physics Olympiad
    
-    - year: 2023
-      items:
-        - Secured Third place at the Innovation fair conducted by the University of Wollongong in Dubai
-          for the project “Reverse Vending Machine.”
+    #- year: 2023
+    #  items:
+    #    - Secured Third place at the Innovation fair conducted by the University of Wollongong in Dubai
+    #      for the project “Reverse Vending Machine.”
 
 - title: Extracurriculars
   type: nested_list
@@ -108,14 +108,14 @@
     - title: Organizing Secretary, NSTU Math Club
     - year: 2023
       items:
-         #- Spearheaded the planning and execution of International Mathematics Day 2023 celebrations, programming contests, and quiz competitions, fostering student engagement and academic collaboration.
-         #– Organized events and programming contests as Organizing Secretary of NSTU Math Club; managed small project teams for academic purposes.
+         Spearheaded the planning and execution of International Mathematics Day 2023 celebrations, programming contests, and quiz competitions, fostering student engagement and academic collaboration.
+         Organized events and programming contests as Organizing Secretary of NSTU Math Club; managed small project teams for academic purposes.
    
     - title: Member, Cholo Paltai Foundation, NSTU
     - year: 2021
       items:
-         – Provided financial assistance and essential goods to almost 200 people who suffered from the economic consequences of the post-COVID era in their struggle to get back on their feet and fight financial difficulties.
-         – Organized and led winter clothing drives, collecting donations from local communities and students to provide warm clothing to homeless individuals across different regions.
+          Provided financial assistance and essential goods to almost 200 people who suffered from the economic consequences of the post-COVID era in their struggle to get back on their feet and fight financial difficulties.
+          Organized and led winter clothing drives, collecting donations from local communities and students to provide warm clothing to homeless individuals across different regions.
 
 - title: Other Interests
   type: list
