@@ -2,43 +2,43 @@
   type: map
   contents:
     - name: Full Name
-      value: Mahima Ahsan
+      value: Shuvo Islam Khan
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Bengali, French, Arabic, Hindi
+      value: English, Bengali
 
 - title: Education
   type: time_table
   contents:
     - title: BSc. 
-      institution: North South University, Dhaka, Bangladesh
-      year: 2020 - 2022
+      institution: Noakhali Science and Technology University, Noakhali, Bangladesh
+      year: 2020 - 2025
       description:
-        - Major in Computer Science and Engineering
+        - Major in Applied Mathematics
         # - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: BSc. 
-      institution: University of Wollongong, Dubai, U.A.E.
-      year: 2018 - 2020
-      description:
-        - Major in Computer Engineering
-        # - Description 2.
-    - title: O/A Levels  
-      institution: St. Mary's Catholic High School, Dubai, U.A.E.
+    - title: HSc. 
+      institution: Birshreshtha Noor Mohammad Public College, Dhaka, Bangladesh
       year: 2016 - 2018
+      description:
+        - I did my HSC Exam there!
+        # - Description 2.
+    - title: SSc.  
+      institution: Noakhali Zilla School, Noakhali, Bangladesh
+      year: 2010 - 2016
       description:
          
 
 - title: Experience
   type: time_table
   contents:
-    - title: Data Analyst
-      institution: Advanced Chemical Industries (ACI) Ltd.
-      year: 2023 - Present
+    - title: Research Assistant
+      institution: Department of Applied Mathematics
+      year: 2025 - Present
       description:
         # - Description 1.
         # - Description 2.
@@ -46,21 +46,21 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Software Developer (Remote)
-      institution: Tourism Point, Bangladesh
-      year: 2023
+   # - title: Software Developer (Remote)
+      #institution: Tourism Point, Bangladesh
+      #year: 2023
       # description:
       #   - Description 1.
       #   - Description 2.
 
-    - title: Software Designing and Development (Remote)
-      institution: Best Canadian Immigration, Canada
-      year: 2022
+   # - title: Software Designing and Development (Remote)
+    #  institution: Best Canadian Immigration, Canada
+    #  year: 2022
 
-    - title: Software Development Internshi
-      institution: Technohaven Company Ltd., Bangladesh
-      year: 2022
-      description:
+   # - title: Software Development Internshi
+    #  institution: Technohaven Company Ltd., Bangladesh
+     # year: 2022
+      #description:
 
     # - title: Associate Professor of Theoretical Physics
     #   institution: University of Zurich, Zurich, Switzerland
@@ -69,62 +69,58 @@
 - title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">Classifying Bangla Health Misinformation on Social Media Platforms
-              using Machine Learning</a>
+    - title: Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh Using SARIMAX, XGBoost, and Decision Tree Classification Methods.
       year: 2023
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-  contents:
-    - title: Bias mitigation in Bangla handwritten text recognition 
-      year: 2023
+  #contents:
+   # - title: Bias mitigation in Bangla handwritten text recognition 
+    #  year: 2023
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-  contents:
-    - title: Capstone Project - ‘Structured State Space sequence (S4) model in Action
-              Recognition Tasks’
-      year: 2022 - 2023
+  #contents:
+   # - title: Capstone Project - ‘Structured State Space sequence (S4) model in Action
+      #       Recognition Tasks’
+    #  year: 2022 - 2023
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Selected Achievements
   type: time_table
   contents:
-    - year: 2024
+    - year: 2016
       items:
-        - Grand Finalists (Top 10) - Robi Datathon 3.0
-        - Completed a 10.3K Marathon - Turaag Active Dhaka 2024
-    - year: 2023
+        - Regional Medel Winner, Bangladesh Mathematics Olympiad
+    - year: 2017 
       items:
-        - Paper presentation, ‘Classifying Bangla Health Misinformation from Social Media Platforms
-          using Machine Learning’, 22nd International Conference on Machine Learning and Cybernetics
-          (ICMLC) 2023
-    - year: 2022
+        - Regional Medel Winner, Bangladesh Informatics Olympiad
+    - year: 2017 
       items:
-        - Grand Finalists - Skitto Hackathon, Grameenphone
-    - year: 2020
-      items:
-        - Secured Third place at the Innovation fair conducted by the University of Wollongong in Dubai
-          for the project “Reverse Vending Machine”
-    - year: 2018
-      items:
-        - Outstanding Academic Excellence Scholarship holder at the University of Wollongong, Dubai 
-    
+        - Regional Medel Winner, Bangladesh Physics Olympiad
+   
+    #- year: 2023
+    #  items:
+    #    - Secured Third place at the Innovation fair conducted by the University of Wollongong in Dubai
+    #      for the project “Reverse Vending Machine.”
 
 - title: Extracurriculars
   type: nested_list
   contents:
-    - title: Special Education Teacher at St. Mary's Catholic High School, Dubai 
-    - year: 2018
-      # items:
-      #   - Description 1.
-      #   - Description 2.
-    - title: Executive member Bangla Express and editor of the Student Express
-              Magazine, Dubai
-    - year: 2020
-      # items:
-      #   - Description 1.
-      #   - Description 2.
+    - title: Organizing Secretary, NSTU Math Club
+    - year: 2023
+      items:
+         Spearheaded the planning and execution of International Mathematics Day 2023 celebrations, programming contests, and quiz competitions, fostering student engagement and academic collaboration.
+         
+      items:
+         Organized events and programming contests as Organizing Secretary of NSTU Math Club; managed small project teams for academic purposes.
+   
+    - title: Member, Cholo Paltai Foundation, NSTU
+    - year: 2021
+      items:
+          Provided financial assistance and essential goods to almost 200 people who suffered from the economic consequences of the post-COVID era in their struggle to get back on their feet and fight financial difficulties.
+      items:
+          Organized and led winter clothing drives, collecting donations from local communities and students to provide warm clothing to homeless individuals across different regions.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Dancing, Music, Running.
+    - <u>Hobbies:</u> Coding, Music, Running.
