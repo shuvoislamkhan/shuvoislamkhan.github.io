@@ -10,7 +10,7 @@ thumbnail:
 ---
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <div class="ratio ratio-16x9">
+    <div class="ratio ratio-1x1">
       {% include video.liquid path="https://www.youtube.com/embed/nMEskfK81qs" %}
     </div>
   </div>
