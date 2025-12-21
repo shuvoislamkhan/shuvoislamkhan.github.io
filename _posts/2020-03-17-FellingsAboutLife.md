@@ -9,9 +9,17 @@ categories:
 thumbnail: 
 ---
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/nMEskfK81qs" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <iframe
+      width="100%"
+      height="315"
+      src="https://www.youtube.com/embed/nMEskfK81qs"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 
 <div align="justify">
