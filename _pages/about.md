@@ -18,15 +18,12 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-When I was a kid, I enjoyed being around computers and, as I grew up, I kept developing my
-relationship with them. During my time in college, I started exploring computer programming,
-but it was only later that I found my passion: Mathematics. Today, I’m a Mathematics
-graduate and a lifelong learner.
+When I was a kid, I enjoyed being around computers and, as I grew up, I kept developing my relationship with them. During my time in college, I started exploring computer programming, but it was only later that I found my passion: Mathematics. Today, I’m a Mathematics graduate and a lifelong learner!
 
 <!-- I'm a curious Data Analyst based in Dhaka who loves diving into the world of data to uncover hidden stories and insights. Fueled by curiosity and a knack for spotting patterns, I enjoy finding creative solutions that help drive smarter decisions.
 
 Beyond my day-to-day work, I'm deeply interested in exploring how technology can positively impact society. My research focuses on areas like social computing, responsible AI, and natural language processing (NLP). I'm passionate about understanding how people interact with technology, ensuring AI systems are ethical and transparent, and advancing the field of NLP to make communication between humans and machines more natural and effective. I'm always eager to connect with others who share these interests and collaborate on projects that push the boundaries of what's possible!
--->
+--> 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
