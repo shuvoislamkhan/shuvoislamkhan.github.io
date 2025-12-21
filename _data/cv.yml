@@ -15,8 +15,7 @@
       institution: Noakhali Science and Technology University, Noakhali, Bangladesh
       year: 2020 - 2025
       description:
-        - Major in Applied Mathematics
-        - Obtained the Four-Year Integrated Degree of Bachelor of Science with Honours in 		  Applied Mathematics!
+        - Obtained the Four-Year Integrated Degree of Bachelor of Science with Major in Applied 	  Mathematics!
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -71,7 +70,7 @@
   type: time_table
   contents:
     - title: Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh Using SARIMAX, XGBoost, and Decision Tree Classification Methods.
-      year: 2025
+      year: 2023
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
   #contents:
