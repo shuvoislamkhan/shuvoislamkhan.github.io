@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #VamosArgentina!
+title: VamosArgentina!
 date: 2022-12-18 23:51:07
 description: 
 tags: 
