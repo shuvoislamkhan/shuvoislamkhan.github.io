@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Looser, big damn looser
+subtitle: Looser, big damn looser!
 
 profile:
   align: right
