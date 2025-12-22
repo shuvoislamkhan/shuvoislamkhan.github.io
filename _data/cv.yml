@@ -47,26 +47,26 @@
 - title: Personal Skills and Competences
   type: list
   contents:
-    - title: Mother tongue
+    - name: Mother tongue
       description: Bengali
-    - title: Other languages
-      description: "English — Listening: C1 | Reading: B2 | Spoken Interaction: B2 | Spoken Production: B2 | Writing: B2"
-    - title: Communication skills
-      description: Excellent communication skills developed through teaching assistance and research presentations in the Department of Applied Mathematics, NSTU.
-    - title: Personal strengths
+    - name: Other languages
+      description: "English — Listening: C1 | Reading: B2 | Spoken interaction: B2 | Spoken production: B2 | Writing: B2"
+    - name: Communication skills
+      description: Excellent communication skills gained through teaching assistant and research presentations in the Department of Applied Mathematics, NSTU.
+    - name: Personal strengths
       description: Leadership and teamwork, time and project management, critical thinking, interpersonal skills, emotional intelligence.
 
 - title: Computational and Research Competences
   type: list
   contents:
-    - title: Coding
-      description: "C, C++, Python, R, Fortran, LaTeX"
-    - title: Technical
+    - name: Coding
+      description: "C, C++, Python, R, Fortran, LaTeX..."
+    - name: Technical
       description: "MATLAB, Wolfram Mathematica, Microsoft Office (Word, Excel, PowerPoint)"
-    - title: Web Development skills
+    - name: Other skills
       description: WordPress development (theme customization, plugin management, site optimization)
-    - title: Miscellaneous
-      description: Academic research, teaching, training, LaTeX typesetting and publishing
+    - name: Misc.
+      description: Academic research, teaching, training, LaTeX typesetting and publishing...
 
 - title: Trainings and Workshops
   type: time_table
