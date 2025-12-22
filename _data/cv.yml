@@ -38,8 +38,12 @@ developing and typesetting course materials and project documents using LATEX...
 - title: Research Projects
   type: time_table
   contents:
-    - title: Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh Using SARIMAX, XGBoost, and Decision Tree Classification Methods
+    - title: "Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh Using SARIMAX, XGBoost, and Decision Tree Classification Methods"
       year: 2025
+      description:
+        - Developed rainfall prediction models using SARIMAX, XGBoost, and Decision Tree Classification Methods for hydrometeorological analysis in flood-prone regions of Bangladesh.
+        - Implemented a threshold-based flood risk alert system to enhance early warning capabilities using data-driven classification methods.
+        - Skills utilized - Analytical and quantitative problem solving: Flood risk modeling using SARIMAX, XGBoost, and Decision Tree Classification Methods.
 
 - title: Selected Achievements
   type: time_table
