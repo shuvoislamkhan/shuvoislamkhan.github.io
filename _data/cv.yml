@@ -45,28 +45,50 @@
         - "Skills utilized: Analytical and quantitative problem solving; flood risk modeling using SARIMAX, XGBoost, and Decision Tree methods."
 
 - title: Personal Skills and Competences
-  type: list
+  type: nested_list
   contents:
-    - name: Mother tongue
-      value: Bengali
-    - name: Other languages
-      value: "English — Listening: C1 | Reading: B2 | Spoken interaction: B2 | Spoken production: B2 | Writing: B2"
-    - name: Communication skills
-      value: Excellent communication skills gained through teaching assistant and research presentations in the Department of Applied Mathematics, NSTU.
-    - name: Personal strengths
-      value: Leadership and teamwork, time and project management, critical thinking, interpersonal skills, emotional intelligence.
+    - title: Mother tongue
+      items:
+        - Bengali
+    - title: Other languages
+      items:
+        - "English — Listening: C1 | Reading: B2 | Spoken Interaction: B2 | Spoken Production: B2 | Writing: B2"
+    - title: Communication skills
+      items:
+        - Excellent communication skills developed through teaching assistance and research presentations in the Department of Applied Mathematics, NSTU.
+    - title: Personal strengths
+      items:
+        - Leadership and teamwork
+        - Time and project management
+        - Critical thinking
+        - Interpersonal skills
+        - Emotional intelligence
 
 - title: Computational and Research Competences
-  type: list
+  type: nested_list
   contents:
-    - name: Coding
-      value: "C, C++, Python, R, Fortran, LaTeX"
-    - name: Technical
-      value: "MATLAB, Wolfram Mathematica, Microsoft Office (Word, Excel, PowerPoint)"
-    - name: Digital skills
-      value: WordPress development (theme customization, plugin management, site optimization)
-    - name: Miscellaneous
-      value: Academic research, teaching, training, LaTeX typesetting and publishing...
+    - title: Coding
+      items:
+        - C
+        - C++
+        - Python
+        - R
+        - Fortran
+        - LaTeX
+    - title: Technical
+      items:
+        - MATLAB
+        - Wolfram Mathematica
+        - Microsoft Office (Word, Excel, PowerPoint)
+    - title: Digital skills
+      items:
+        - WordPress development (theme customization, plugin management, site optimization)
+    - title: Miscellaneous
+      items:
+        - Academic research
+        - Teaching
+        - Training
+        - LaTeX typesetting and publishing...
 
 - title: Trainings and Workshops
   type: time_table
