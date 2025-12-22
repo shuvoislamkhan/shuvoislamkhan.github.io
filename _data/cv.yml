@@ -50,23 +50,23 @@
     - title: Mother tongue
       description: Bengali
     - title: Other languages
-      description: "English — Listening: C1 | Reading: B2 | Spoken interaction: B2 | Spoken production: B2 | Writing: B2"
+      description: "English — Listening: C1 | Reading: B2 | Spoken Interaction: B2 | Spoken Production: B2 | Writing: B2"
     - title: Communication skills
-      description: "Excellent communication skills gained through teaching assistant and research presentations in the Mathematics Department, NSTU."
+      description: Excellent communication skills developed through teaching assistance and research presentations in the Department of Applied Mathematics, NSTU.
     - title: Personal strengths
-      description: "Leadership and Teamwork | Time and Project Management | Critical Thinking | Interpersonal Relationship | Emotional Intelligence"
+      description: Leadership and teamwork, time and project management, critical thinking, interpersonal skills, emotional intelligence.
 
 - title: Computational and Research Competences
   type: list
   contents:
     - title: Coding
-      description: "C | C++ | Python | R | Fortran | LaTeX"
+      description: "C, C++, Python, R, Fortran, LaTeX"
     - title: Technical
-      description: "MATLAB | Wolfram Mathematica | Microsoft Office Suite (Word, Excel, PowerPoint)"
+      description: "MATLAB, Wolfram Mathematica, Microsoft Office (Word, Excel, PowerPoint)"
     - title: Digital skills
-      description: "WordPress development (theme customization, plugin management, site optimization)"
-    - title: Misc.
-      description: "Academic research | Teaching | Training | LaTeX typesetting and publishing"
+      description: WordPress development (theme customization, plugin management, site optimization)
+    - title: Miscellaneous
+      description: Academic research, teaching, training, LaTeX typesetting and publishing
 
 - title: Trainings and Workshops
   type: time_table
