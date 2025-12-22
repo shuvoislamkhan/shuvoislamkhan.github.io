@@ -45,6 +45,40 @@ developing and typesetting course materials and project documents using LATEX...
         - Implemented a threshold-based flood risk alert system to enhance early warning capabilities using data-driven classification methods.
         - Skills utilized - Analytical and quantitative problem solving: Flood risk modeling using SARIMAX, XGBoost, and Decision Tree Classification Methods.
 
+- title: Personal Skills and Competences
+  type: list
+  contents:
+    - title: Mother tongue
+      description: Bengali
+    - title: Other languages
+      description: >
+        English — Listening: C1 | Reading: B2 | Spoken interaction: B2 | Spoken production: B2 | Writing: B2
+    - title: Communication skills
+      description: Excellent communication skills gained through teaching assistant and research presentations in the Mathematics Department, NSTU.
+    - title: Personal strengths
+      description: Leadership and Teamwork | Time and Project Management | Critical Thinking | Interpersonal Relationship | Emotional Intelligence
+
+- title: Computational and Research Competences
+  type: list
+  contents:
+    - title: Coding
+      description: C | C++ | Python | R | Fortran | LaTeX
+    - title: Technical
+      description: MATLAB | Wolfram Mathematica | Microsoft Office Suite (Word, Excel, PowerPoint)
+    - title: Digital skills
+      description: WordPress development (theme customization, plugin management, site optimization)
+    - title: Misc.
+      description: Academic research | Teaching | Training | LaTeX typesetting and publishing
+
+- title: Trainings and Workshops
+  type: time_table
+  contents:
+    - title: Introduction to Research Methodology
+      year: 02/2023–06/2023
+      description: Organized by NSTU Research Society
+    - title: Crafting an Impactful Scientific Research Paper for Peer Review
+      year: 2023
+      description: Organized by NSTU
 - title: Selected Achievements
   type: time_table
   contents:
