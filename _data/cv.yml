@@ -31,8 +31,8 @@
     - title: Research Assistant
       institution: Department of Applied Mathematics
       year: "2025 - Present"
-      items:
-        - "Worked under the supervision of Dr. Md. Jamal Hossain, Professor, and assisted in developing and typesetting course materials and project documents using LATEX..."
+      description:
+        - Worked under the supervision of Dr. Md. Jamal Hossain, Professor, and assisted in developing and typesetting course materials and project documents using LATEX...
 
 - title: Research Projects
   type: time_table
@@ -42,7 +42,7 @@
       description:
         - Developed rainfall prediction models using SARIMAX, XGBoost, and Decision Tree Classification Methods for hydrometeorological analysis in flood-prone regions of Bangladesh.
         - Implemented a threshold-based flood risk alert system to enhance early warning capabilities using data-driven classification methods.
-        - "Skills utilized - Analytical and quantitative problem solving: Flood risk modeling using SARIMAX, XGBoost, and Decision Tree Classification Methods."
+        - Skills utilized: Analytical and quantitative problem solving; flood risk modeling using SARIMAX, XGBoost, and Decision Tree methods.
 
 - title: Personal Skills and Competences
   type: list
