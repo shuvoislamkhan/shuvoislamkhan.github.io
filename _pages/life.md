@@ -3,7 +3,7 @@ layout: page
 permalink: /life/
 title: Life
 description:
-nav: true
+nav: false
 nav_order: 1
 ---
 <div class="life-wrapper">

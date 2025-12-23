@@ -21,7 +21,7 @@ social: true
   text-align: justify;
   line-height: 1.75;
   font-size: 1.08rem;
-  opacity: 0.95;
+  opacity: 1;
 ">
 I'm a curious Math graduate based in Bangladesh who loves diving into the world of data to uncover hidden stories and insights. Fueled by curiosity and a knack for spotting patterns, I enjoy finding creative solutions that help drive smarter decisions. When I was a kid, I enjoyed being around computers and, as I grew up, I kept developing my relationship with them. During my time in college, I started exploring computer programming, but it was only later that I found my passion: Mathematics. Today, I’m a Mathematics graduate and a lifelong learner.
 
