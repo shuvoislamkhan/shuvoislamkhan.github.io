@@ -43,7 +43,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     <p>But dreams have a tendency to play hard to get right?</p>
   </div>
 
-  <!-- Top stats row -->
+  <!-- Top stats -->
   <div class="stats-row">
     <div class="stat-item">
       <h1>9</h1>
@@ -66,25 +66,43 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   <!-- Interests -->
   <h3 class="section-heading">Interests</h3>
   <div class="stats-row">
-    <div class="icon-item">TED Talks</div>
-    <div class="icon-item">Psychology</div>
-    <div class="icon-item">The Munir & Munir Show</div>
-    <div class="icon-item">Education</div>
-    <div class="icon-item">Programming</div>
+    <div class="icon-item">
+      <i class="fa-solid fa-tv"></i>
+      <span>TED Talks</span>
+    </div>
+    <div class="icon-item">
+      <i class="fa-solid fa-brain"></i>
+      <span>Psychology</span>
+    </div>
+    <div class="icon-item">
+      <i class="fa-solid fa-microphone"></i>
+      <span>The Munir & Munir Show</span>
+    </div>
+    <div class="icon-item">
+      <i class="fa-solid fa-book"></i>
+      <span>Education</span>
+    </div>
+    <div class="icon-item">
+      <i class="fa-solid fa-code"></i>
+      <span>Programming</span>
+    </div>
   </div>
 
   <!-- Life in numbers -->
   <h3 class="section-heading">Life in numbers</h3>
   <div class="stats-row">
-    <div class="stat-item">
+    <div class="icon-stat">
+      <i class="fa-solid fa-location-dot"></i>
       <h1>8</h1>
       <span>Onsite Contest</span>
     </div>
-    <div class="stat-item">
+    <div class="icon-stat">
+      <i class="fa-solid fa-pen-nib"></i>
       <h1>17</h1>
       <span>Blogs</span>
     </div>
-    <div class="stat-item">
+    <div class="icon-stat">
+      <i class="fa-solid fa-file-lines"></i>
       <h1>9</h1>
       <span>Articles</span>
     </div>
