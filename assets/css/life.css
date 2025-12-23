@@ -5,6 +5,10 @@
   padding: 40px 20px;
   text-align: center;
 }
+.post .stats-section {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .stats-title h2 {
   margin-bottom: 5px;
