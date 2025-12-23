@@ -1,11 +1,18 @@
 /* ===============================
-   GLOBAL WRAPPER
+   GLOBAL RESET
 ================================ */
 
 .life-wrapper {
   max-width: 900px;
   margin: auto;
   text-align: center;
+}
+
+/* Force-center EVERYTHING inside */
+
+.life-wrapper * {
+  text-align: center !important;
+  box-sizing: border-box;
 }
 
 /* ===============================
@@ -28,20 +35,20 @@
 }
 
 /* ===============================
-   TOP STATS (4 IN A ROW)
+   TOP STATS (4 ITEMS IN ONE LINE)
 ================================ */
 
 .top-stats {
   display: flex;
-  justify-content: space-between;
-  gap: 20px;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 50px;
 }
 
 .stat-item {
-  flex: 1;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center !important;
 }
 
 .stat-number {
@@ -56,21 +63,22 @@
 }
 
 /* ===============================
-   INTERESTS (ICON ABOVE TEXT)
+   INTERESTS (ALL ICONS IN ONE LINE)
 ================================ */
 
 .interests-grid {
   display: flex;
-  justify-content: center;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 50px;
   flex-wrap: wrap;
-  gap: 40px;
 }
 
 .interest-item {
-  width: 140px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center !important;
+  width: 140px;
 }
 
 .interest-item i {
@@ -80,23 +88,23 @@
 
 .interest-text {
   font-size: 14px;
-  line-height: 1.3;
 }
 
 /* ===============================
-   LIFE IN NUMBERS (3 IN A ROW)
+   LIFE IN NUMBERS (3 ITEMS IN ONE LINE)
 ================================ */
 
 .life-numbers {
   display: flex;
-  justify-content: center;
-  gap: 60px;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 80px;
 }
 
 .life-item {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center !important;
 }
 
 .life-item i {
@@ -115,12 +123,16 @@
 }
 
 /* ===============================
-   RESET al-folio LIST STYLES
+   KILL al-folio LIST & FLOAT STYLES
 ================================ */
 
 .life-wrapper ul,
 .life-wrapper li {
   list-style: none !important;
-  padding: 0 !important;
   margin: 0 !important;
+  padding: 0 !important;
+}
+
+.life-wrapper div {
+  float: none !important;
 }

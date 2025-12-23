@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /life/
-title: Life in Numbers!
-description: 
+title: Life
+description:
 nav: true
 nav_order: 1
 ---
