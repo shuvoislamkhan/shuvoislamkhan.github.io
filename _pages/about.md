@@ -17,7 +17,7 @@ social: true
 <!-- Biography Section -->
 <div style="
   max-width: 70ch;
-  margin: 0 auto 3rem auto;
+  margin-bottom: 3rem;
   text-align: justify;
   line-height: 1.75;
   font-size: 1.08rem;
@@ -50,7 +50,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   </p>
 
   <!-- TOP STATS -->
-  <div class="top-stats" style="margin-bottom:3rem; justify-content:center;">
+  <div class="top-stats" style="margin: 0 auto 3rem auto; justify-content:center;">
     <div class="stat-item">
       <div class="stat-number">9</div>
       <div class="stat-text">Failed<br>Attempts</div>
@@ -69,13 +69,19 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     </div>
   </div>
 
-  <hr style="margin:3rem 0;">
+<hr style="
+  margin: 4rem auto;
+  max-width: 200px;
+  border: none;
+  border-top: 2px solid rgba(0,0,0,0.08);
+">
+
 
   <!-- INTERESTS -->
-  <h3 style="text-align:center; margin-bottom:1.5rem; letter-spacing:0.4px;">
+  <h3 style="text-align:center; margin: 0 auto 3rem auto; letter-spacing:0.4px;">
     Interests
   </h3>
-  <div class="interests-grid" style="max-width:700px; margin:0 auto; justify-content:center;">
+  <div class="interests-grid" style="max-width:700px; margin: 0 auto 2rem auto; justify-content:center;">
     <div class="interest-item">
       <i class="fas fa-desktop"></i>
       <div class="interest-text">TED Talks</div>
@@ -98,13 +104,18 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     </div>
   </div>
 
-  <hr style="margin:3rem 0;">
+  <hr style="
+  margin: 4rem auto;
+  max-width: 200px;
+  border: none;
+  border-top: 2px solid rgba(0,0,0,0.08);
+">
 
   <!-- LIFE IN NUMBERS -->
-  <h3 style="text-align:center; margin-bottom:1.5rem; letter-spacing:0.4px;">
+  <h3 style="text-align:center; margin: 0 auto 2rem auto; letter-spacing:0.4px;">
     Life in numbers
   </h3>
-  <div class="life-numbers" style="margin-top:2rem; justify-content:center;">
+  <div class="life-numbers" style="margin: 0 auto 2rem auto; justify-content:center;">
     <div class="life-item">
       <i class="fas fa-laptop-code"></i>
       <div class="life-number">8</div>
