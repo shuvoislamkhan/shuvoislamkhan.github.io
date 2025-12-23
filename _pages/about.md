@@ -7,19 +7,22 @@ subtitle: Looser, big damn looser!
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: false
 
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false
+selected_papers: false
+social: true
 ---
-<div style="max-width:70ch; margin: 0 auto 3rem auto; text-align: justify; line-height: 1.7; font-size: 1.05rem;">
 
+<!-- Biography Section -->
+<div style="
+  max-width: 70ch;
+  margin: 0 auto 3rem auto;
+  text-align: justify;
+  line-height: 1.75;
+  font-size: 1.08rem;
+  opacity: 0.95;
+">
 I'm a curious Math graduate based in Bangladesh who loves diving into the world of data to uncover hidden stories and insights. Fueled by curiosity and a knack for spotting patterns, I enjoy finding creative solutions that help drive smarter decisions. When I was a kid, I enjoyed being around computers and, as I grew up, I kept developing my relationship with them. During my time in college, I started exploring computer programming, but it was only later that I found my passion: Mathematics. Today, I’m a Mathematics graduate and a lifelong learner.
 
 Beyond my day-to-day work, I'm deeply interested in exploring how technology can positively impact society. My research focuses on areas like social computing, responsible AI, and natural language processing (NLP). I'm passionate about understanding how people interact with technology, ensuring AI systems are ethical and transparent, and advancing the field of NLP to make communication between humans and machines more natural and effective. I'm always eager to connect with others who share these interests and collaborate on projects that push the boundaries of what's possible!
@@ -33,17 +36,21 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   border-top: 2px solid rgba(0,0,0,0.08);
 ">
 
+<!-- Life Section -->
 <div style="max-width: 900px; margin: 0 auto;">
+
 <div class="life-wrapper">
 
   <!-- Header -->
-  <h2 style="text-align:center; margin-bottom:0.5rem;">It was a bumpy ride</h2>
-  <p style="text-align:center; opacity:0.8; margin-bottom:2rem;">
+  <h2 style="text-align:center; margin-bottom:0.5rem;">
+    It was a bumpy ride
+  </h2>
+  <p style="text-align:center; opacity:0.75; margin-bottom:3rem;">
     But dreams have a tendency to play hard to get right?
   </p>
 
   <!-- TOP STATS -->
-  <div class="top-stats" style="margin-bottom:3rem;">
+  <div class="top-stats" style="margin-bottom:3rem; justify-content:center;">
     <div class="stat-item">
       <div class="stat-number">9</div>
       <div class="stat-text">Failed<br>Attempts</div>
@@ -65,10 +72,10 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   <hr style="margin:3rem 0;">
 
   <!-- INTERESTS -->
-  <h3 class="section-title" style="margin-bottom:1.5rem; letter-spacing:0.4px;">
-  Interests
-</h3>
- <div class="interests-grid" style="max-width:700px; margin:0 auto;">
+  <h3 style="text-align:center; margin-bottom:1.5rem; letter-spacing:0.4px;">
+    Interests
+  </h3>
+  <div class="interests-grid" style="max-width:700px; margin:0 auto; justify-content:center;">
     <div class="interest-item">
       <i class="fas fa-desktop"></i>
       <div class="interest-text">TED Talks</div>
@@ -94,10 +101,10 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   <hr style="margin:3rem 0;">
 
   <!-- LIFE IN NUMBERS -->
-  <h3 class="section-title" style="margin-bottom:1.5rem; letter-spacing:0.4px;">
-  Life in numbers!
-</h3>
-  <div class="life-numbers" style="margin-top:2rem;">
+  <h3 style="text-align:center; margin-bottom:1.5rem; letter-spacing:0.4px;">
+    Life in numbers
+  </h3>
+  <div class="life-numbers" style="margin-top:2rem; justify-content:center;">
     <div class="life-item">
       <i class="fas fa-laptop-code"></i>
       <div class="life-number">8</div>
@@ -117,13 +124,3 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
 
 </div>
 </div>
-
-<!-- I'm a curious Data Analyst based in Dhaka who loves diving into the world of data to uncover hidden stories and insights. Fueled by curiosity and a knack for spotting patterns, I enjoy finding creative solutions that help drive smarter decisions.
-
-
---> 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
