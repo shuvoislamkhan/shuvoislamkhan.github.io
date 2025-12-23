@@ -6,22 +6,19 @@
 .life-numbers {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   gap: 20px;
 }
 
 
 .life-wrapper {
+  width: 100%;
   max-width: 900px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   text-align: center;
-}
-
-/* Force-center EVERYTHING inside */
-
-.life-wrapper * {
-  text-align: center !important;
-  box-sizing: border-box;
 }
 
 /* ===============================
@@ -48,9 +45,6 @@
 ================================ */
 
 .top-stats {
-  display: flex;
-  justify-content: center !important;
-  align-items: center !important;
   gap: 50px;
 }
 
@@ -76,11 +70,7 @@
 ================================ */
 
 .interests-grid {
-  display: flex;
-  justify-content: center !important;
-  align-items: center !important;
   gap: 50px;
-  flex-wrap: wrap;
 }
 
 .interest-item {
@@ -104,9 +94,6 @@
 ================================ */
 
 .life-numbers {
-  display: flex;
-  justify-content: center !important;
-  align-items: center !important;
   gap: 80px;
 }
 
@@ -136,14 +123,12 @@
 ================================ */
 
 .life-wrapper ul,
-.life-wrapper li {
-  list-style: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
+.life-wrapper li,
 .life-wrapper div {
   float: none !important;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 /* ===============================
