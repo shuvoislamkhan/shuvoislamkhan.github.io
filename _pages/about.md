@@ -67,18 +67,6 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   <h3 class="section-heading">Interests</h3>
   <div class="stats-row">
     <div class="icon-item">
-      <i class="fa-solid fa-tv"></i>
-      <span>TED Talks</span>
-    </div>
-    <div class="icon-item">
-      <i class="fa-solid fa-brain"></i>
-      <span>Psychology</span>
-    </div>
-    <div class="icon-item">
-      <i class="fa-solid fa-microphone"></i>
-      <span>The Munir & Munir Show</span>
-    </div>
-    <div class="icon-item">
       <i class="fa-solid fa-book"></i>
       <span>Education</span>
     </div>
@@ -86,6 +74,16 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
       <i class="fa-solid fa-code"></i>
       <span>Programming</span>
     </div>
+
+    <div class="icon-item">
+      <i class="fa-solid fa-tv"></i>
+      <span>TED Talks</span>
+    </div>
+    <div class="icon-item">
+      <i class="fa-solid fa-brain"></i>
+      <span>Psychology</span>
+    </div>
+
   </div>
 
   <!-- Life in numbers -->
