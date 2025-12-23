@@ -1,150 +1,131 @@
-/* ===============================
-   GLOBAL RESET
-================================ */
+/* =========================
+   LIFE SECTION – GLOBAL
+   ========================= */
+
+.life-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* =========================
+   HEADERS & TEXT
+   ========================= */
+
+.life-wrapper h2 {
+  margin-bottom: 0.5rem;
+}
+
+.life-wrapper p {
+  opacity: 0.75;
+  margin-bottom: 3rem;
+}
+
+/* =========================
+   DIVIDERS
+   ========================= */
+
+.life-divider {
+  margin: 4rem auto;
+  max-width: 200px;
+  border: none;
+  border-top: 2px solid rgba(0, 0, 0, 0.08);
+}
+
+/* =========================
+   FLEX GRIDS (COMMON)
+   ========================= */
+
 .top-stats,
 .interests-grid,
 .life-numbers {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 2rem;
   flex-wrap: wrap;
-  gap: 20px;
+  margin-bottom: 3rem;
 }
 
-.about-text {
-  text-align: justify;
-  text-justify: inter-word;
-  max-width: 70ch;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.life-wrapper {
-  width: 100%;
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  text-align: center;
-}
-
-/* ===============================
-   HEADERS
-================================ */
-
-.life-title {
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.life-subtitle {
-  color: #777;
-  margin-bottom: 40px;
-}
-
-.section-title {
-  margin: 40px 0 25px;
-  font-weight: 600;
-}
-
-/* ===============================
-   TOP STATS (4 ITEMS IN ONE LINE)
-================================ */
-
-.top-stats {
-  gap: 50px;
-}
+/* =========================
+   STAT ITEMS
+   ========================= */
 
 .stat-item {
   display: flex;
   flex-direction: column;
-  align-items: center !important;
+  align-items: center;
 }
 
 .stat-number {
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 2.5rem;
+  font-weight: 600;
 }
 
 .stat-text {
-  font-size: 14px;
-  color: #555;
-  line-height: 1.3;
+  line-height: 1.2;
+  opacity: 0.85;
 }
 
-/* ===============================
-   INTERESTS (ALL ICONS IN ONE LINE)
-================================ */
-
-.interests-grid {
-  gap: 50px;
-}
+/* =========================
+   INTEREST ITEMS
+   ========================= */
 
 .interest-item {
   display: flex;
   flex-direction: column;
-  align-items: center !important;
-  width: 140px;
+  align-items: center;
+  min-width: 120px;
 }
 
 .interest-item i {
-  font-size: 40px;
-  margin-bottom: 10px;
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
 }
 
 .interest-text {
-  font-size: 14px;
+  font-size: 0.95rem;
 }
 
-/* ===============================
-   LIFE IN NUMBERS (3 ITEMS IN ONE LINE)
-================================ */
-
-.life-numbers {
-  gap: 80px;
-}
+/* =========================
+   LIFE NUMBERS
+   ========================= */
 
 .life-item {
   display: flex;
   flex-direction: column;
-  align-items: center !important;
+  align-items: center;
+  min-width: 120px;
 }
 
 .life-item i {
-  font-size: 40px;
-  margin-bottom: 10px;
+  font-size: 1.8rem;
+  margin-bottom: 0.4rem;
 }
 
 .life-number {
-  font-size: 32px;
-  font-weight: 700;
+  font-size: 2rem;
+  font-weight: 600;
 }
 
 .life-text {
-  font-size: 14px;
-  color: #555;
+  font-size: 0.9rem;
+  opacity: 0.85;
 }
 
-/* ===============================
-   KILL al-folio LIST & FLOAT STYLES
-================================ */
+/* =========================
+   RESPONSIVE
+   ========================= */
 
-.life-wrapper ul,
-.life-wrapper li,
-.life-wrapper div {
-  float: none !important;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
+@media (max-width: 600px) {
+  .stat-number,
+  .life-number {
+    font-size: 2rem;
+  }
 
-/* ===============================
-   STRAIGHT SEPARATOR LINE
-================================ */
-
-.life-separator {
-  border: none;
-  border-top: 1px solid #ddd;
-  width: 60%;
-  margin: 60px auto;
+  .interest-item,
+  .life-item {
+    min-width: 100px;
+  }
 }
