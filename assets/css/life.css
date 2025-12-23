@@ -31,7 +31,7 @@
 }
 .stats-row {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   gap: 30px;
   flex-wrap: nowrap;
@@ -78,6 +78,6 @@
 @media (max-width: 768px) {
   .stats-row {
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
   }
 }
