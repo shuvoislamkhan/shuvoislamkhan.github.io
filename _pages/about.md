@@ -46,7 +46,7 @@ selected_papers: false
 social: true
 ---
 
-<!-- Biography Section -->
+
 <div style="
   max-width: 70ch;
   margin: 0 0 3rem 0;
@@ -75,7 +75,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     <p>But dreams have a tendency to play hard to get right?</p>
   </div>
 
-  <!-- Top stats -->
+ 
   <div class="stats-row">
     <div class="stat-item">
       <h1>9</h1>
@@ -95,7 +95,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     </div>
   </div>
 
-  <!-- Interests -->
+  
   <h3 class="section-heading">Interests</h3>
   <div class="stats-row">
     <div class="icon-item">
@@ -118,7 +118,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
 
   </div>
 
-  <!-- Life in numbers -->
+ 
   <h3 class="section-heading">Life in numbers</h3>
   <div class="stats-row">
     <div class="icon-stat">
