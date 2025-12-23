@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
 permalink: /life/
+title: teaching
+description: 
+nav: true
+nav_order: 6
 ---
 <div class="life-wrapper">
 
