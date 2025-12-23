@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /life/
-title: teaching
+title: Life in Numbers!
 description: 
 nav: true
 nav_order: 6
