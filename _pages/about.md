@@ -36,78 +36,58 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   border-top: 2px solid rgba(0,0,0,0.08);
 ">
 
-<!-- Life Section -->
-<div style="max-width: 900px; margin: 0 auto;">
-  <div class="life-wrapper">
+<section class="stats-section">
 
+  <div class="stats-title">
     <h2>It was a bumpy ride</h2>
     <p>But dreams have a tendency to play hard to get right?</p>
-
-    <div class="top-stats">
-      <div class="stat-item">
-        <div class="stat-number">9</div>
-        <div class="stat-text">Failed<br>Attempts</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-number">23</div>
-        <div class="stat-text">Restarts</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-number">86</div>
-        <div class="stat-text">Sleepless<br>Nights</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-number">47</div>
-        <div class="stat-text">Broken<br>Pencils</div>
-      </div>
-    </div>
-
-    <hr class="life-divider">
-
-    <h3>Interests</h3>
-    <div class="interests-grid">
-      <div class="interest-item">
-        <i class="fas fa-desktop"></i>
-        <div class="interest-text">TED Talks</div>
-      </div>
-      <div class="interest-item">
-        <i class="fas fa-heartbeat"></i>
-        <div class="interest-text">Psychology</div>
-      </div>
-      <div class="interest-item">
-        <i class="fas fa-microphone"></i>
-        <div class="interest-text">The Munir & Munir Show</div>
-      </div>
-      <div class="interest-item">
-        <i class="fas fa-book"></i>
-        <div class="interest-text">Education</div>
-      </div>
-      <div class="interest-item">
-        <i class="fas fa-code"></i>
-        <div class="interest-text">Programming</div>
-      </div>
-    </div>
-
-    <hr class="life-divider">
-
-    <h3>Life in numbers</h3>
-    <div class="life-numbers">
-      <div class="life-item">
-        <i class="fas fa-laptop-code"></i>
-        <div class="life-number">8</div>
-        <div class="life-text">Onsite contest</div>
-      </div>
-      <div class="life-item">
-        <i class="fas fa-book-open"></i>
-        <div class="life-number">17</div>
-        <div class="life-text">Blogs</div>
-      </div>
-      <div class="life-item">
-        <i class="fas fa-pen"></i>
-        <div class="life-number">9</div>
-        <div class="life-text">Articles</div>
-      </div>
-    </div>
-
   </div>
-</div>
+
+  <!-- Top stats row -->
+  <div class="stats-row">
+    <div class="stat-item">
+      <h1>9</h1>
+      <span>Failed Attempts</span>
+    </div>
+    <div class="stat-item">
+      <h1>23</h1>
+      <span>Restarts</span>
+    </div>
+    <div class="stat-item">
+      <h1>86</h1>
+      <span>Sleepless Nights</span>
+    </div>
+    <div class="stat-item">
+      <h1>47</h1>
+      <span>Broken Pencils</span>
+    </div>
+  </div>
+
+  <!-- Interests -->
+  <h3 class="section-heading">Interests</h3>
+  <div class="stats-row">
+    <div class="icon-item">TED Talks</div>
+    <div class="icon-item">Psychology</div>
+    <div class="icon-item">The Munir & Munir Show</div>
+    <div class="icon-item">Education</div>
+    <div class="icon-item">Programming</div>
+  </div>
+
+  <!-- Life in numbers -->
+  <h3 class="section-heading">Life in numbers</h3>
+  <div class="stats-row">
+    <div class="stat-item">
+      <h1>8</h1>
+      <span>Onsite Contest</span>
+    </div>
+    <div class="stat-item">
+      <h1>17</h1>
+      <span>Blogs</span>
+    </div>
+    <div class="stat-item">
+      <h1>9</h1>
+      <span>Articles</span>
+    </div>
+  </div>
+
+</section>

@@ -1,131 +1,54 @@
-/* =========================
-   LIFE SECTION – GLOBAL
-   ========================= */
-
-.life-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.stats-section {
+  max-width: 1100px;
+  margin: 0 auto;
   text-align: center;
+  padding: 40px 20px;
 }
 
-/* =========================
-   HEADERS & TEXT
-   ========================= */
-
-.life-wrapper h2 {
-  margin-bottom: 0.5rem;
+.stats-title h2 {
+  margin-bottom: 5px;
 }
 
-.life-wrapper p {
-  opacity: 0.75;
-  margin-bottom: 3rem;
+.stats-title p {
+  color: #777;
+  font-size: 14px;
 }
 
-/* =========================
-   DIVIDERS
-   ========================= */
-
-.life-divider {
-  margin: 4rem auto;
-  max-width: 200px;
-  border: none;
-  border-top: 2px solid rgba(0, 0, 0, 0.08);
-}
-
-/* =========================
-   FLEX GRIDS (COMMON)
-   ========================= */
-
-.top-stats,
-.interests-grid,
-.life-numbers {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2rem;
-  flex-wrap: wrap;
-  margin-bottom: 3rem;
-}
-
-/* =========================
-   STAT ITEMS
-   ========================= */
-
-.stat-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.stat-number {
-  font-size: 2.5rem;
+.section-heading {
+  margin: 40px 0 20px;
   font-weight: 600;
 }
 
-.stat-text {
-  line-height: 1.2;
-  opacity: 0.85;
-}
-
-/* =========================
-   INTEREST ITEMS
-   ========================= */
-
-.interest-item {
+.stats-row {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  min-width: 120px;
+  gap: 30px;
+  flex-wrap: nowrap; /* forces one line */
 }
 
-.interest-item i {
-  font-size: 1.8rem;
-  margin-bottom: 0.5rem;
+.stat-item h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
 }
 
-.interest-text {
-  font-size: 0.95rem;
+.stat-item span {
+  font-size: 14px;
+  color: #666;
 }
 
-/* =========================
-   LIFE NUMBERS
-   ========================= */
-
-.life-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-width: 120px;
+.icon-item {
+  font-size: 14px;
+  padding: 10px 15px;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  white-space: nowrap;
 }
 
-.life-item i {
-  font-size: 1.8rem;
-  margin-bottom: 0.4rem;
-}
-
-.life-number {
-  font-size: 2rem;
-  font-weight: 600;
-}
-
-.life-text {
-  font-size: 0.9rem;
-  opacity: 0.85;
-}
-
-/* =========================
-   RESPONSIVE
-   ========================= */
-
-@media (max-width: 600px) {
-  .stat-number,
-  .life-number {
-    font-size: 2rem;
-  }
-
-  .interest-item,
-  .life-item {
-    min-width: 100px;
+@media (max-width: 768px) {
+  .stats-row {
+    flex-wrap: wrap;
+    justify-content: center;
   }
 }
