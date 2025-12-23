@@ -26,7 +26,13 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
 
 </div>
 
-<hr class="life-separator">
+<hr style="
+  margin: 4rem auto;
+  max-width: 200px;
+  border: none;
+  border-top: 2px solid rgba(0,0,0,0.08);
+">
+
 <div style="max-width: 900px; margin: 0 auto;">
 <div class="life-wrapper">
 
@@ -37,7 +43,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   </p>
 
   <!-- TOP STATS -->
-  <div class="top-stats">
+  <div class="top-stats" style="margin-bottom:3rem;">
     <div class="stat-item">
       <div class="stat-number">9</div>
       <div class="stat-text">Failed<br>Attempts</div>
@@ -59,8 +65,10 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   <hr style="margin:3rem 0;">
 
   <!-- INTERESTS -->
-  <h3 class="section-title">Interests</h3>
-  <div class="interests-grid">
+  <h3 class="section-title" style="margin-bottom:1.5rem; letter-spacing:0.4px;">
+  Interests
+</h3>
+ <div class="interests-grid" style="max-width:700px; margin:0 auto;">
     <div class="interest-item">
       <i class="fas fa-desktop"></i>
       <div class="interest-text">TED Talks</div>
@@ -86,8 +94,10 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
   <hr style="margin:3rem 0;">
 
   <!-- LIFE IN NUMBERS -->
-  <h3 class="section-title">Life in numbers</h3>
-  <div class="life-numbers">
+  <h3 class="section-title" style="margin-bottom:1.5rem; letter-spacing:0.4px;">
+  Life in numbers!
+</h3>
+  <div class="life-numbers" style="margin-top:2rem;">
     <div class="life-item">
       <i class="fas fa-laptop-code"></i>
       <div class="life-number">8</div>
