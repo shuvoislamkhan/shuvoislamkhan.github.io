@@ -4,7 +4,7 @@ permalink: /life/
 title: Life in Numbers!
 description: 
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 <div class="life-wrapper">
 
