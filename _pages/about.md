@@ -17,7 +17,7 @@ social: true
 <!-- Biography Section -->
 <div style="
   max-width: 70ch;
-  margin-bottom: 3rem;
+  margin: 0 0 3rem 0;
   text-align: justify;
   line-height: 1.75;
   font-size: 1.08rem;
