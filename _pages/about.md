@@ -26,6 +26,8 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
 
 </div>
 
+<hr class="life-separator">
+
 <div class="life-wrapper">
 
   <!-- Header -->

@@ -1,6 +1,15 @@
 /* ===============================
    GLOBAL RESET
 ================================ */
+.top-stats,
+.interests-grid,
+.life-numbers {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
 
 .life-wrapper {
   max-width: 900px;
@@ -135,4 +144,15 @@
 
 .life-wrapper div {
   float: none !important;
+}
+
+/* ===============================
+   STRAIGHT SEPARATOR LINE
+================================ */
+
+.life-separator {
+  border: none;
+  border-top: 1px solid #ddd;
+  width: 60%;
+  margin: 60px auto;
 }
