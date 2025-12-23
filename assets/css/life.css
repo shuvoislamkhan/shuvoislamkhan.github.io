@@ -11,6 +11,10 @@
   gap: 20px;
 }
 
+.about-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 .life-wrapper {
   width: 100%;
