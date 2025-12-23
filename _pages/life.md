@@ -34,30 +34,34 @@ nav_order: 6
 
   <hr>
 
-  <!-- Interests -->
   <h3 class="section-title">Interests</h3>
-  <div class="interests-grid">
-    <div class="interest">
-      <i class="fas fa-desktop"></i>
-      <span>TED Talks</span>
-    </div>
-    <div class="interest">
-      <i class="fas fa-heartbeat"></i>
-      <span>Psychology</span>
-    </div>
-    <div class="interest">
-      <i class="fas fa-microphone"></i>
-      <span>The Munir & Munir Show</span>
-    </div>
-    <div class="interest">
-      <i class="fas fa-book"></i>
-      <span>Education</span>
-    </div>
-    <div class="interest">
-      <i class="fas fa-code"></i>
-      <span>Programming</span>
-    </div>
+
+<div class="interests-grid">
+  <div class="interest-item">
+    <i class="fas fa-desktop"></i>
+    <div class="interest-text">TED Talks</div>
   </div>
+
+  <div class="interest-item">
+    <i class="fas fa-heartbeat"></i>
+    <div class="interest-text">Psychology</div>
+  </div>
+
+  <div class="interest-item">
+    <i class="fas fa-microphone"></i>
+    <div class="interest-text">The Munir & Munir Show</div>
+  </div>
+
+  <div class="interest-item">
+    <i class="fas fa-book"></i>
+    <div class="interest-text">Education</div>
+  </div>
+
+  <div class="interest-item">
+    <i class="fas fa-code"></i>
+    <div class="interest-text">Programming</div>
+  </div>
+</div>
 
   <hr>
 
