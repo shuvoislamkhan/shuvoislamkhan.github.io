@@ -16,7 +16,7 @@ nav_order: 5
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
 </div>
-
+{% endif %}
 ---
 
 <!-- {% if site.repo_trophies.enabled %}
@@ -30,10 +30,6 @@ nav_order: 5
   </div> -->
 
 ---
-
-{% endfor %}
-{% endif %}
-{% endif %}
 
 {% if site.data.repositories.github_repos %}
 
