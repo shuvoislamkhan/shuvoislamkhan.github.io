@@ -12,7 +12,7 @@ thumbnail:
         {% include figure.liquid loading="eager" path="assets/img/SheikhHasina.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 <br><br>
-<div align="justify">
+<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
 
 আমার বাবা দাদাদের কাছে তিনি হাসু আপা। আমার এবং আমার সমসাময়িক সবার কাছেও তিনি হাসু আপা। দুই প্রজন্ম পিছনে ফেলে এসেও যার আর ম্যাডাম হওয়া হয়ে উঠে নি। আজও যিনি সবার প্রিয়... সেই শেখের বেটি।<br><br>
 

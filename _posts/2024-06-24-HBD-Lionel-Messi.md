@@ -14,7 +14,7 @@ thumbnail:
     </div>
 <br><br>
 
-<div align="justify">
+<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
 
 Happy birthday to the greatest footballer of all time, Lionel Andrés Messi! ❤️👑<br><br>
 

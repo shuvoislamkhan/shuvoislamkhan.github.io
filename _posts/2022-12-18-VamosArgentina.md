@@ -11,7 +11,7 @@ thumbnail: assets/img/WorldCup.jpg
     </div>
 </div>
 
-<div align="justify">
+<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
 <br><br>
 December 18, 2022<br><br>
 

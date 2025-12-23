@@ -8,7 +8,7 @@ categories:
 thumbnail:
 ---
 
-<div align="justify">
+<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
 
 I forgot last when someone called me to give a good news. I cannot remember last when I got excited about something. I forgot last when I made a hang out with friends and talked about random girls, music, politics or sports. I forget last when I joined any family or social programme.<br><br>
 

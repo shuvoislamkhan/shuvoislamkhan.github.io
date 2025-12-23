@@ -8,7 +8,7 @@ categories:
 thumbnail:
 ---
 
-<div align="justify">
+<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
 
 It's a funny feeling the second you realize you're over someone who broke your heart. Suddenly you don't care about what they might be doing, or who they may be replacing you with. The sound of their voice isn't implanted into your brain anymore, and you don't turn around when someone says their name. The love songs on the radio don't make you think of them anymore, but more so, make you think of starting a new story and adventure with someone else. It's a bittersweet feeling, letting go of someone you thought would be your forever. 🌸<br><br>
 

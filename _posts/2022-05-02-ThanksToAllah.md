@@ -8,7 +8,7 @@ categories:
 thumbnail:
 ---
 
-<div align="justify">
+<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
 
 May be things are not going too well in your life. Maybe your surroundings aren't perfect for you, maybe you're surviving with your personal life or academic career, maybe your CG isn't good enough as you expected, maybe your partner is a psycho, maybe you’ve been cheated on. But you’re reading this post with your eyes, scrolling the feed with your hands, you can talk, hear, you’re alive. You aren’t blind. Do you know how it feels to be blind, deaf or dumb? Well you don’t know, cause Allah didn’t let that happen.<br><br>
 
