@@ -18,7 +18,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<div class="about-text">
+<div style="max-width:70ch; margin: 0 auto 3rem auto; text-align: justify; line-height: 1.7; font-size: 1.05rem;">
 
 I'm a curious Math graduate based in Bangladesh who loves diving into the world of data to uncover hidden stories and insights. Fueled by curiosity and a knack for spotting patterns, I enjoy finding creative solutions that help drive smarter decisions. When I was a kid, I enjoyed being around computers and, as I grew up, I kept developing my relationship with them. During my time in college, I started exploring computer programming, but it was only later that I found my passion: Mathematics. Today, I’m a Mathematics graduate and a lifelong learner.
 
@@ -27,12 +27,14 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
 </div>
 
 <hr class="life-separator">
-<div class="col-12 col-lg-10 mx-auto">
+<div style="max-width: 900px; margin: 0 auto;">
 <div class="life-wrapper">
 
   <!-- Header -->
-  <h2 class="life-title">It was a bumpy ride</h2>
-  <p class="life-subtitle">But dreams have a tendency to play hard to get right?</p>
+  <h2 style="text-align:center; margin-bottom:0.5rem;">It was a bumpy ride</h2>
+  <p style="text-align:center; opacity:0.8; margin-bottom:2rem;">
+    But dreams have a tendency to play hard to get right?
+  </p>
 
   <!-- TOP STATS -->
   <div class="top-stats">
@@ -54,7 +56,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     </div>
   </div>
 
-  <hr>
+  <hr style="margin:3rem 0;">
 
   <!-- INTERESTS -->
   <h3 class="section-title">Interests</h3>
@@ -81,7 +83,7 @@ Beyond my day-to-day work, I'm deeply interested in exploring how technology can
     </div>
   </div>
 
-  <hr>
+  <hr style="margin:3rem 0;">
 
   <!-- LIFE IN NUMBERS -->
   <h3 class="section-title">Life in numbers</h3>
