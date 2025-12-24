@@ -37,7 +37,7 @@
       "startDate": "2020-02-11",
       "endDate": "2025-08-10",
       "score": "3.35 (in a scale of 4.00)",
-      "courses": []
+      "courses": [Coursework included Calculus, Differential Equations, Numerical Analysis, Optimization, Neural Networks, Mechanics, Relativity, Cosmology, and Programming languages.]
     },
     {
       "institution": "Birshreshtha Noor Mohammad Public College",
@@ -76,19 +76,19 @@
     {
       "name": "Programming",
       "level": "Advanced",
-      "icon": "",
+      "icon": "fa-solid fa-code",
       "keywords": ["C", "C++", "Python", "R", "Fortran", "LaTeX"]
     },
     {
       "name": "Technical Tools",
       "level": "Advanced",
-      "icon": "",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": ["MATLAB", "Wolfram Mathematica", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"]
     },
     {
       "name": "Research",
       "level": "Advanced",
-      "icon": "",
+      "icon": "fa-solid fa-flask",
       "keywords": ["Academic research", "Teaching", "Training", "Scientific writing"]
     }
   ],
