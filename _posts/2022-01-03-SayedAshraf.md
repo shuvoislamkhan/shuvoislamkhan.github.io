@@ -12,7 +12,7 @@ thumbnail:
         {% include figure.liquid loading="eager" path="assets/img/SayedAshraf.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 <br><br>
-<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
+<div style="text-align: justify; margin: 0 1rem 2rem 1rem;">
 
 "আমি আওয়ামী লীগের সন্তান। আওয়ামী লীগের ঘরেই আমার জন্ম। আওয়ামী লীগ যখন ব্যথা পায়, আমারও কিন্তু হৃদয়ে ব্যথা লাগে। আওয়ামী লীগের এক কর্মী যদি ব্যথা পায়, সেই ব্যথা আমিও পাই। আপনারা এখানে এসেছেন। আপনাদের রক্ত, আমার রক্ত একই। এই রক্তে কোনো পার্থক্য নেই। আওয়ামী লীগকে দল ভাবিনি। আওয়ামী লীগ একটা অনুভূতি।"<br><br>
 

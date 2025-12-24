@@ -12,7 +12,7 @@ thumbnail: assets/img/Leader.jpg
         {% include figure.liquid loading="eager" path="assets/img/Leader.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 
-<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
+<div style="text-align: justify; margin: 0 1rem 2rem 1rem;">
 <br><br>
 
 গত বছরের প্রথমদিকের ঘটনা, অজানা এক ভাইরাস কোভিডে বিপর্যস্ত চীন। এরপর সেটা ছড়িয়ে পড়তে থাকলো বিশ্বে। সবাই ভাবলো কোভিড চীন-ইউরোপ-আমেরিকার জন্য আসছে, বাংলাদেশে আসবে না।। মার্চের মাঝামাঝি, কোভিডে বিপর্যস্ত হ‌ওয়ার পথে পুরা বিশ্ব, WHO অতিমারী ঘোষণা করলো কোভিডকে। বাইরের দেশগুলাতে এই অজানা ভাইরাস যে কতোটা প্রাণঘাতী হতে পারে, তা দেখতে থাকলো মানুষজন।<br><br>

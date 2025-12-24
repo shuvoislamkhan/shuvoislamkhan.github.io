@@ -7,7 +7,7 @@ tags:
 categories:
 thumbnail:
 ---
-<div style="text-align: justify; margin: 0 2rem 2rem 2rem;">
+<div style="text-align: justify; margin: 0 1rem 2rem 1rem;">
 
 If you're comfortable with the ambiance of current room, then making room for smarter ones seems like a good option. But if you're not comfortable and consider growing and learning by leaving your current comfort zone, then venturing out the room seems a 'better' option. ;'(<br><br>
 
