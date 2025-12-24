@@ -27,6 +27,41 @@
       "highlights": ["Academic research support", "Course material development", "LaTeX typesetting"]
     }
   ],
+  "education": [
+    {
+      "institution": "Noakhali Science and Technology University",
+      "location": "Noakhali, Bangladesh",
+      "url": "",
+      "area": "Applied Mathematics",
+      "studyType": "BSc.",
+      "startDate": "2020-02-11",
+      "endDate": "2025-08-10",
+      "score": "3.35 (in a scale of 4.00)",
+      "courses": []
+    },
+    {
+      "institution": "Birshreshtha Noor Mohammad Public College",
+      "location": "Dhaka, Bangladesh",
+      "url": "",
+      "area": "Science",
+      "studyType": "HSC",
+      "startDate": "2016-06-01",
+      "endDate": "2018-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Noakhali Zilla School",
+      "location": "Noakhali, Bangladesh",
+      "url": "",
+      "area": "Science",
+      "studyType": "SSC",
+      "startDate": "2010-01-06",
+      "endDate": "2016-03-16",
+      "score": "",
+      "courses": []
+    }
+  ],
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -39,106 +74,69 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "Noakhali Science and Technology University",
-      "location": "Noakhali, Bangladesh",
-      "url": "",
-      "area": "Applied Mathematics",
-      "studyType": "BSc",
-      "startDate": "2020-01-01",
-      "endDate": "2025-01-01",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Birshreshtha Noor Mohammad Public College",
-      "location": "Dhaka, Bangladesh",
-      "url": "",
-      "area": "Science",
-      "studyType": "HSC",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Noakhali Zilla School",
-      "location": "Noakhali, Bangladesh",
-      "url": "",
-      "area": "Science",
-      "studyType": "SSC",
-      "startDate": "2010-01-01",
-      "endDate": "2016-01-01",
-      "score": "",
-      "courses": []
-    }
-  ],
   "awards": [
     {
       "title": "Regional Medal Winner, Bangladesh Mathematics Olympiad",
-      "date": "2016-01-01",
-      "awarder": "Bangladesh Mathematics Olympiad Committee",
+      "date": "2016",
+      "awarder": "Bangladesh Mathematics Olympiad",
       "url": "",
       "summary": ""
     },
     {
       "title": "Regional Medal Winner, Bangladesh Informatics Olympiad",
-      "date": "2017-01-01",
-      "awarder": "Bangladesh Informatics Olympiad Committee",
+      "date": "2017",
+      "awarder": "Bangladesh Informatics Olympiad",
       "url": "",
       "summary": ""
     },
     {
       "title": "Regional Medal Winner, Bangladesh Physics Olympiad",
-      "date": "2017-01-01",
-      "awarder": "Bangladesh Physics Olympiad Committee",
+      "date": "2017",
+      "awarder": "Bangladesh Physics Olympiad",
       "url": "",
       "summary": ""
+    },
+  ],
+  "trainings and workshops": [
+    {
+      "name": "Introduction to Research Methodology",
+      "date": "2023-02-01",
+      "issuer": "NSTU Research Society",
+      "url": "",
+      "icon": ""
+    },
+    {
+      "name": "Crafting an Impactful Scientific Research Paper for Peer Review",
+      "date": "2023-01-01",
+      "issuer": "Department of Applied Mathematics, Noakhali Science and Technology University",
+      "url": "",
+      "icon": ""
     }
   ],
-  "certificates": [
+  "extracurricular": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "NSTU Math Club",
+      "position": "Organizing Secretary",
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Spearheaded the planning and execution of International Mathematics Day 2023 celebrations, programming contests, and quiz competitions; organized events and managed small project teams for academic purposes.",
+      "highlights": [
+        "International Mathematics Day 2023",
+        "Programming contests and quiz competitions",
+        "Team leadership and project coordination"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "organization": "Cholo Paltai Foundation, NSTU",
+      "position": "Member",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Provided financial assistance and essential goods to nearly 200 people affected by post-COVID economic hardship; organized and led winter clothing drives across multiple regions.",
+      "highlights": [
+        "Community financial assistance",
+        "Winter clothing drives",
+        "Volunteer leadership"
+      ]
     }
   ],
   "publications": [
@@ -215,14 +213,14 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Md. Jamal Hossain, Ph.D.",
+      "icon": "fa-solid fa-user-graduate",
+      "reference": "Chairman & Professor, Department of Applied Mathematics, Noakhali Science and Technology University, Noakhali-3814, Bangladesh. Email: mdjamal@nstu.edu.bd"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Jamal Uddin, M.Phil. (BUET)",
+      "icon": "fa-solid fa-user-graduate",
+      "reference": "Assistant Professor, Department of Applied Mathematics, Noakhali Science and Technology University, Noakhali-3814, Bangladesh. Email: jamal@nstu.edu.bd"
     }
   ],
   "projects": [
