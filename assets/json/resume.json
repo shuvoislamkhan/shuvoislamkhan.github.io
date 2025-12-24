@@ -62,39 +62,46 @@
       "courses": []
     }
   ],
-  "volunteer": [
+  "projects": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh",
+      "summary": "Developed rainfall prediction models using SARIMAX, XGBoost, and Decision Tree classification for hydrometeorological analysis and implemented a threshold-based flood risk alert system.",
+      "highlights": ["SARIMAX", "XGBoost", "Decision Tree", "Flood risk modeling"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "url": ""
     }
   ],
-  "awards": [
+   "skills": [
     {
-      "title": "Regional Medal Winner",
-      "date": "2016",
-      "awarder": "Bangladesh Mathematics Olympiad",
-      "url": "",
-      "summary": ""
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": ["C", "C++", "Python", "R", "Fortran", "LaTeX"]
     },
     {
-      "title": "Regional Medal Winner",
-      "date": "2017",
-      "awarder": "Bangladesh Informatics Olympiad",
-      "url": "",
-      "summary": ""
+      "name": "Technical Tools",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": ["MATLAB", "Wolfram Mathematica", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"]
     },
     {
-      "title": "Regional Medal Winner",
-      "date": "2017",
-      "awarder": "Bangladesh Physics Olympiad",
-      "url": "",
-      "summary": ""
+      "name": "Research",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": ["Academic research", "Teaching", "Training", "Scientific writing"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bengali",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency",
+      "icon": ""
     }
   ],
   "trainings and workshops": [
@@ -162,36 +169,27 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "awards": [
     {
-      "name": "Programming",
-      "level": "Advanced",
-      "icon": "",
-      "keywords": ["C", "C++", "Python", "R", "Fortran", "LaTeX"]
+      "title": "Regional Medal Winner",
+      "date": "2016",
+      "awarder": "Bangladesh Mathematics Olympiad",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Technical Tools",
-      "level": "Advanced",
-      "icon": "",
-      "keywords": ["MATLAB", "Wolfram Mathematica", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"]
+      "title": "Regional Medal Winner",
+      "date": "2017",
+      "awarder": "Bangladesh Informatics Olympiad",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Research",
-      "level": "Advanced",
-      "icon": "",
-      "keywords": ["Academic research", "Teaching", "Training", "Scientific writing"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Bengali",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Professional Working Proficiency",
-      "icon": ""
+      "title": "Regional Medal Winner",
+      "date": "2017",
+      "awarder": "Bangladesh Physics Olympiad",
+      "url": "",
+      "summary": ""
     }
   ],
   "interests": [
@@ -221,16 +219,6 @@
       "name": "Jamal Uddin, M.Phil. (BUET)",
       "icon": "fa-solid fa-user-graduate",
       "reference": "Assistant Professor, Department of Applied Mathematics, Noakhali Science and Technology University, Noakhali-3814, Bangladesh. Email: jamal@nstu.edu.bd"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Threshold-Based Flood Risk Alert System in Flood-Prone Regions of Bangladesh",
-      "summary": "Developed rainfall prediction models using SARIMAX, XGBoost, and Decision Tree classification for hydrometeorological analysis and implemented a threshold-based flood risk alert system.",
-      "highlights": ["SARIMAX", "XGBoost", "Decision Tree", "Flood risk modeling"],
-      "startDate": "2025-01-01",
-      "endDate": "2025-01-01",
-      "url": ""
     }
   ]
 }
