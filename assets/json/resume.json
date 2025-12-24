@@ -181,17 +181,17 @@
   "interests": [
     {
       "name": "Coding",
-      "icon": "",
+      "icon": "fa-solid fa-terminal",
       "keywords": []
     },
     {
       "name": "Music",
-      "icon": "",
+      "icon": "fa-solid fa-music",
       "keywords": []
     },
     {
       "name": "Running",
-      "icon": "",
+      "icon": "fa-solid fa-person-running",
       "keywords": []
     }
   ],
