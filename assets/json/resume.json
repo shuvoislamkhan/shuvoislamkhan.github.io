@@ -104,7 +104,7 @@
       "icon": ""
     }
   ],
-  "certificates": [
+  "certifications": [
     {
       "name": "Introduction to Research Methodology",
       "date": "2023-02-01",
@@ -120,7 +120,7 @@
       "icon": ""
     }
   ],
-  "extracurricular": [
+  "volunteer": [
     {
       "organization": "NSTU Math Club",
       "position": "Organizing Secretary",
