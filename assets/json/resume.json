@@ -199,12 +199,12 @@
     {
       "name": "Dr. Md. Jamal Hossain, Ph.D.",
       "icon": "fa-solid fa-user-graduate",
-      "reference": "Chairman & Professor, Department of Applied Mathematics, Noakhali Science and Technology University, Noakhali-3814, Bangladesh. Email: mdjamal@nstu.edu.bd"
+      "reference": "Chairman & Professor, Department of Applied Mathematics,\n Noakhali Science and Technology University, \nNoakhali-3814, Bangladesh. \nEmail: mdjamal@nstu.edu.bd"
     },
     {
       "name": "Jamal Uddin, M.Phil. (BUET)",
       "icon": "fa-solid fa-user-graduate",
-      "reference": "Assistant Professor, Department of Applied Mathematics, Noakhali Science and Technology University, Noakhali-3814, Bangladesh. Email: jamal@nstu.edu.bd"
+      "reference": "Assistant Professor, Department of Applied Mathematics,\n Noakhali Science and Technology University, \nNoakhali-3814, Bangladesh. \nEmail: jamal@nstu.edu.bd"
     }
   ]
 }
