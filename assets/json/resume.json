@@ -107,17 +107,17 @@
   "certificates": [
     {
       "name": "Introduction to Research Methodology",
-      "date": "2023-02-01",
+      "date": "2023",
       "issuer": "NSTU Research Society",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Crafting an Impactful Scientific Research Paper for Peer Review",
-      "date": "2023-01-01",
+      "date": "2023",
       "issuer": "Department of Applied Mathematics, Noakhali Science and Technology University",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "volunteer": [
