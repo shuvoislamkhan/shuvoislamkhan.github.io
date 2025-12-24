@@ -19,7 +19,7 @@
   "work": [
     {
       "name": "Department of Applied Mathematics, Noakhali Science and Technology University",
-      "position": "Research Assistant",
+      "position": "Undergraduate Research Assistant",
       "url": "https://www.nstu.edu.bd/department.php?name=am",
       "startDate": "2025-01-01",
       "endDate": "",
@@ -37,7 +37,7 @@
       "startDate": "2020-02-11",
       "endDate": "2025-08-10",
       "score": "3.35 (in a scale of 4.00)",
-      "courses": ["Calculus", "Differential Equations", "Numerical Analysis", "Optimization", "Neural Networks", "Mechanics", "Relativity", "Cosmology", "Programming Languages"]
+      "courses": ["Calculus", "Differential Equations", "Numerical Analysis", "Optimization", "Neural Networks", "Mechanics", "Relativity", "Cosmology", "Lab Courses: C, C++, Fortran"]
     },
     {
       "institution": "Birshreshtha Noor Mohammad Public College",
@@ -68,7 +68,7 @@
       "summary": "Developed rainfall prediction models using SARIMAX, XGBoost, and Decision Tree classification for hydrometeorological analysis and implemented a threshold-based flood risk alert system.",
       "highlights": ["SARIMAX", "XGBoost", "Decision Tree", "Flood risk modeling"],
       "startDate": "2025-01-01",
-      "endDate": "2025-01-01",
+      "endDate": "2025-06-01",
       "url": "https://drive.proton.me/urls/VENFFAR2CR#S2Xlkkkdo9Le"
     }
   ],
@@ -199,12 +199,12 @@
     {
       "name": "Dr. Md. Jamal Hossain, Ph.D.",
       "icon": "fa-solid fa-user-graduate",
-      "reference": "Chairman & Professor,\nDepartment of Applied Mathematics,\nNoakhali Science and Technology University,\nNoakhali-3814, Bangladesh.\nEmail: mdjamal@nstu.edu.bd"
+      "reference": "Chairman & Professor,<br>Department of Applied Mathematics,<br>Noakhali Science and Technology University,<br>Noakhali-3814, Bangladesh.<br>Email: mdjamal@nstu.edu.bd"
     },
     {
       "name": "Jamal Uddin, M.Phil. (BUET)",
       "icon": "fa-solid fa-user-graduate",
-      "reference": "Assistant Professor,\nDepartment of Applied Mathematics,\nNoakhali Science and Technology University,\nNoakhali-3814, Bangladesh.\nEmail: jamal@nstu.edu.bd"
+      "reference": "Assistant Professor,<br>Department of Applied Mathematics,<br>Noakhali Science and Technology University,<br>Noakhali-3814, Bangladesh.<br>Email: jamal@nstu.edu.bd"
     }
   ]
 }
