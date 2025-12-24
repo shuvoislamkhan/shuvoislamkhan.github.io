@@ -20,7 +20,7 @@
     {
       "name": "Department of Applied Mathematics, Noakhali Science and Technology University",
       "position": "Research Assistant",
-      "url": "",
+      "url": "https://www.nstu.edu.bd/department.php?name=am",
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "Worked under the supervision of Dr. Md. Jamal Hossain, Professor, assisting in developing and typesetting course materials and project documents using LaTeX.",
@@ -31,8 +31,8 @@
     {
       "institution": "Noakhali Science and Technology University",
       "location": "Noakhali, Bangladesh",
-      "url": "",
-      "area": "Applied Mathematics",
+      "url": "https://www.nstu.edu.bd/department.php?name=am",
+      "area": "Major in Applied Mathematics",
       "studyType": "BSc.",
       "startDate": "2020-02-11",
       "endDate": "2025-08-10",
@@ -42,7 +42,7 @@
     {
       "institution": "Birshreshtha Noor Mohammad Public College",
       "location": "Dhaka, Bangladesh",
-      "url": "",
+      "url": "https://www.noormohammadcollege.ac.bd/",
       "area": "Science",
       "studyType": "HSC",
       "startDate": "2016-06-01",
@@ -53,7 +53,7 @@
     {
       "institution": "Noakhali Zilla School",
       "location": "Noakhali, Bangladesh",
-      "url": "",
+      "url": "http://www.nzs.edu.bd/",
       "area": "Science",
       "studyType": "SSC",
       "startDate": "2010-01-06",
@@ -153,20 +153,6 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "awards": [
