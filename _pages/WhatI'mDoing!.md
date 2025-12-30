@@ -2,11 +2,16 @@
 layout: page
 title: What I'm Doing!
 permalink: /WhatI'mDoing/
-subtitle: 
-description:
+subtitle: "Learning & Building with Python, Machine Learning, and AI"
+description: "Ongoing learning roadmap, projects, and goals in Python, Machine Learning, and Artificial Intelligence."
 nav: true
 nav_order: 1
 ---
+
+<div class="page-hero">
+  <h1>🚀 Python · Machine Learning · AI</h1>
+  <p>A living roadmap of my technical growth, projects, and long-term goals.</p>
+</div>
 
 ## Current Focus: Python & Machine Learning / AI
 
@@ -42,7 +47,7 @@ The objective is to develop strong theoretical foundations along with practical 
 
 ---
 
-### 🧪 Ongoing Projects
+## 🧪 Featured Projects
 
 - **Data Analysis Portfolio** – real-world datasets and visualization reports  
 - **ML Models** – predictive systems for classification and forecasting  
@@ -52,7 +57,7 @@ Each project emphasizes clean code, reproducibility, and documentation.
 
 ---
 
-### 🎯 Goals
+## 🎯 Career Goals
 
 - Build production-ready ML pipelines  
 - Publish open-source projects on GitHub  
@@ -61,7 +66,7 @@ Each project emphasizes clean code, reproducibility, and documentation.
 
 ---
 
-### 📚 Tools & Technologies
+## 🛠 Tech Stack
 
 | Category | Stack |
 |--------|-------|
@@ -74,7 +79,7 @@ DevOps | Git, GitHub, Jupyter |
 
 ---
 
-### 🗓 Study Routine
+## 📅 Learning Schedule
 
 - **Daily:** Coding practice & concept review  
 - **Weekly:** Mini-project implementation  
@@ -87,3 +92,8 @@ Continuous improvement through experimentation, reading research papers, and bui
 ### 📫 Updates
 
 This page will be updated regularly as new skills, projects, and milestones are achieved.
+
+<div class="page-cta">
+  <a href="/projects/" class="btn">View My Projects</a>
+  <a href="/about/" class="btn btn-secondary">About Me</a>
+</div>
