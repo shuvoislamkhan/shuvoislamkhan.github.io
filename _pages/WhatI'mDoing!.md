@@ -94,6 +94,6 @@ Continuous improvement through experimentation, reading research papers, and bui
 This page will be updated regularly as new skills, projects, and milestones are achieved.
 
 <div class="page-cta">
-  <a href="/repository/" class="btn">View My Projects</a>
+  <a href="/repositories/" class="btn">View My Projects</a>
   <a href="/cv/" class="btn btn-secondary">About Me</a>
 </div>
