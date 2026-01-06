@@ -193,6 +193,11 @@
       "name": "Running",
       "icon": "fa-solid fa-person-running",
       "keywords": []
+    },
+    {
+      "name": "Recreational Mathematics",
+      "icon": "fa-solid fa-puzzle-piece",
+      "keywords": []
     }
   ],
   "references": [
